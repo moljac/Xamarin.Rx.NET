@@ -1,0 +1,3 @@
+[submodule "submodulez/Rx.NET"]
+	path = submodulez/Rx.NET
+	url = https://github.com/moljac/Rx.NET.git
